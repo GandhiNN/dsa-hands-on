@@ -11,7 +11,19 @@ name = "heaps-and-stacks"
 version = "0.1.0"
 
 [[package]]
+name = "interior-mutability"
+version = "0.1.0"
+
+[[package]]
 name = "moving-data"
+version = "0.1.0"
+
+[[package]]
+name = "multiple-owners"
+version = "0.1.0"
+
+[[package]]
+name = "objects-and-behavior"
 version = "0.1.0"
 
 [[package]]
